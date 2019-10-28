@@ -30,10 +30,10 @@ This is a tool to adjust schedules according to daylight saving changes, it can
   
 ### Installation:
 ```bash
-   - virtualenv venv
-   - source venv/bin/activate
-   - pip3 install -r requirements.txt
-   - ./daylightsave_adjust_schedules.py
+    virtualenv venv
+    source venv/bin/activate
+    pip3 install -r requirements.txt
+    ./daylightsave_adjust_schedules.py
 ```
 
 ### Configuring SpotInst Credentials:
