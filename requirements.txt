@@ -1,0 +1,10 @@
+prompt_toolkit==1.0.14
+PyInquirer==1.0.3
+spotinst_sdk
+croniter
+boto3
+python-crontab
+terminaltables
+pykube
+ruamel.yaml
+zmon-cli==1.1.56

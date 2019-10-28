@@ -1,0 +1,5 @@
+# samples at https://github.com/github/gitignore
+
+.*.swp
+.*.swo
+__pycache__/
